@@ -20,41 +20,50 @@
 <h3>Mobile</h3>
 
 Index:
-<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/index-mobile.PNG">
+<br>
+<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/imagens/index-mobile.PNG">
 <hr><br>
 
 App:
-<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/game-play-mobile.PNG">
+<br>
+<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/imagens/game-play-mobile.PNG">
 <hr><br>
 
 
 Vitória
-<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/vitoria-mobile.PNG">
+<br>
+<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/imagens/vitoria-mobile.PNG">
 <hr><br>
 
 
 Game-Over
-<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/game-over-mobile.PNG">
+<br>
+<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/imagens/game-over-mobile.PNG">
 <hr><br>
 
 <h3>Desktop</h3>
+<br>
 
 
 Index:
-<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/index.PNG">
+<br>
+<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/imagens/index.PNG">
 <hr><br>
 
 App:
-<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/game-play.PNG">
+<br>
+<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/imagens/game-play.PNG">
 <hr><br>
 
 
 Vitória
-<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/vitoria.PNG">
+<br>
+<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/imagens/vitoria.PNG">
 <hr><br>
 
 
 Game-Over
-<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/game-over.PNG">
+<br>
+<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/imagens/game-over.PNG">
 <hr><br>
 
