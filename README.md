@@ -47,23 +47,23 @@ Game-Over
 
 Index:
 <br>
-<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/imagens/index.PNG">
+<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/imagens/index.png">
 <hr><br>
 
 App:
 <br>
-<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/imagens/game-play.PNG">
+<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/imagens/game-play.png">
 <hr><br>
 
 
 Vitória
 <br>
-<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/imagens/vitoria.PNG">
+<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/imagens/vitoria-desktop.png">
 <hr><br>
 
 
 Game-Over
 <br>
-<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/imagens/game-over.PNG">
+<img src="https://github.com/NewZaqueu/Game-Mata-Mosquito/blob/master/imagens/game-over.png">
 <hr><br>
 
