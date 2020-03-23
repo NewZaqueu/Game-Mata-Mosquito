@@ -1,0 +1,107 @@
+
+/* CONFIGURANDO CURSOR PARA MOSTRAR IMAGEM DA RAQUETE */
+
+*{
+    cursor: url(imagens/mata_mosca.png) 30 30, auto !important;
+}
+
+
+
+/* CONFIGURANDO MOSQUITO */
+.mosquito1{
+    height: 50px;
+    width: 50px;
+}
+.mosquito2{
+    height: 70px;
+    width: 70px;
+}
+.mosquito3{
+    height: 90px;
+    width: 90px;
+}
+
+.olhandoDireita{
+    transform: scaleX(-1);
+}
+
+.olhandoEsquerda{
+    transform: scaleX(1);
+}
+
+/* CENARIO DO JOGO */
+
+body{
+    min-height: 300px;
+    background-image: url(imagens/bg.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+body#app{
+    height: 95vh;
+}
+
+.painel{
+    position:absolute;
+    width:190px;
+    padding:10px;
+    bottom:0px;
+    left:10px;
+    border-top:solid 1px #fff;
+    background-color:#fff;
+    opacity:0.7;
+}
+
+.vidas{
+    float:left;
+}
+
+.cronometro{
+    float:left;
+    font-size: 20px;    
+    font-weight: bold;
+}
+
+/* CONFIGURANDO RESPONSIVIDADE */
+
+/* Extra small devices (portrait phones, less than 576px) */ 
+@media (max-width: 575.98px) {
+    #index img, #game-over img, #vitoria img{
+        width: 45%;
+    }
+ }
+
+/* // Small devices (landscape phones, less than 768px) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #index img, #game-over img, #vitoria img{
+        width: 55%;
+    }
+ 
+}      
+
+/* // Medium devices (tablets, less than 992px) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #index img, #game-over img, #vitoria img{
+        width: 55%;
+    }
+ 
+}
+
+/* // Large devices (desktops, less than 1200px) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    #index img, #game-over img, #vitoria img{
+        width: 60%;
+    }
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    #index img, #game-over img, #vitoria img{
+        width: 40%;
+    }
+    .btn-lg{
+        font-size:2.5em
+    }
+
+}

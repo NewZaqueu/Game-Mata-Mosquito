@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo Mata Mosquito</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="game.js"></script>
+</head>
+
+<!-- CHAMADA PARA AJUSTE DA AREA ONDE O MOSQUITO IRA APARECER -->
+<body onresize="ajustaTelaJogo()" id="app">
+
+ <div class="painel">
+
+    <div class="vidas">
+            <img id="vida1" src="imagens/coracao_cheio.png">
+            <img id="vida2" src="imagens/coracao_cheio.png">
+            <img id="vida3" src="imagens/coracao_cheio.png">
+    </div>
+
+    
+    <div class="cronometro">
+        Tempo restante: <span id="cronometro"></span>
+    </div>
+
+</div>
+
+<script>
+
+//DEFININDO O VALOR INCIAL DO CRONOMETRO
+document.getElementById("cronometro").innerHTML = tempo
+
+// FUNÇÃO PARA CRIAÇÃO DAS MOSCAS NA TELA DE ACORDO COM O NIVEL DE DIFICULDADE
+    var criandoMoscas = setInterval(function() {
+        posicaoRamdomica()
+    }, criandoMoscasTempo);
+
+</script>
+    
+</body>
+
+</html>
